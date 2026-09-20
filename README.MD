@@ -14,7 +14,7 @@ containerisation technology used to wrap the application and the libraries used 
 ---
 ---
 # IMPORTANT NOTE
-anything you did not find in this documentation, that means its easy to find and read using the `--help`, yes some things easy to find in the `--help` are here BUT I made it this way because I want it[...]
+anything you did not find in this documentation, that means its easy to find and read using the `--help`, yes some things easy to find in the `--help` are here BUT I made it this way because I wanted to be able to explain it in a way that fits how I think and remember it
 
 my documentation , my decisions
 
@@ -37,14 +37,14 @@ here you will find
 
 
 # Docker cheat sheet 
-- Docker [2.baisics](2.baisics.md)
+- Docker [2.baisics](./2.baisics.md)
 - options explained with examples for comples/ have manny options commands
-  - [A.docker_run1](A.docker_run1.md)
-  - [A.docker_run2](A.docker_run2.md)
-  - [B.docker_build](B.docker_build.md)
-  - [C.docker.exec](C.docker.exec.md)
-  - [D.Docker_Inspect](D.Docker_Inspect.md)
-  - [E.Docker_Volume](E.Docker_Volume.md)
+  - [A.docker_run1](./A.docker_run1.md)
+  - [A.docker_run2](./A.docker_run2.md)
+  - [B.docker_build](./B.docker_build.md)
+  - [C.docker.exec](./C.docker.exec.md)
+  - [D.Docker_Inspect](./D.Docker_Inspect.md)
+  - [E.Docker_Volume](./E.Docker_Volume.md)
 
 ---
 # some advices
@@ -103,3 +103,4 @@ I did not make this one personally (`as I use obsidian and github to write and s
 a wiki server is web application that uses wiki software to let users create, edit, and collaborate on web pages through a browser
 
 its useful for storing your notes or documentations, maybe you are documenting a project you are making or just taking notes for a course you are taking 
+
