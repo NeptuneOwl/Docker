@@ -8,25 +8,45 @@ This document covers the important concepts and options commonly needed when bui
 
 # Contents
 [Basic Syntax](#basic-syntax)
+
 [How docker build works](#how-docker-build-works)
+
 [Build Context](#build-context)
+
 [Dockerfile](#dockerfile)
+
 [Tags](#tags)
+
 [Build Arguments](#build-arguments)
+
 [Build Cache](#build-cache)
+
 [No Cache](#no-cache)
+
 [Pulling the Base Image](#pulling-the-base-image)
+
 [Build Progress Output](#build-progress-output)
+
 [Target Build Stages](#target-build-stages)
+
 [Multi-Platform Builds](#multi-platform-builds)
+
 [Build Secrets](#build-secrets)
+
 [SSH Forwarding](#ssh-forwarding)
+
 [BuildKit Mounts](#buildkit-mounts)
+
 [Labels](#labels)
+
 [Network During Build](#network-during-build)
+
 [Resource & Execution Options](#resource--execution-options)
+
 [Common Build Problems](#common-build-problems)
+
 [Practical Examples](#practical-examples)
+
 [Quick Reference](#quick-reference)
 
 ---
