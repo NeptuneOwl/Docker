@@ -32,46 +32,45 @@ It is especially useful when you need to find information that normal commands s
 ---
 
 # Contents
+- [Basic Syntax](#basic-syntax)
 
-- [[#Basic Syntax]]
-    
-- [[#What docker inspect Returns]]
-    
-- [[#Inspecting Containers]]
-    
-- [[#Inspecting Images]]
-    
-- [[#Inspecting Multiple Objects]]
-    
-- [[#Reading the Output]]
-    
-- [[#Container State]]
-    
-- [[#Network Information]]
-    
-- [[#Mount Information]]
-    
-- [[#Environment Variables]]
-    
-- [[#Port Information]]
-    
-- [[#Startup Configuration]]
-    
-- [[#Restart Policy]]
-    
-- [[#Using Go Templates]]
-    
-- [[#Common Template Examples]]
-    
-- [[#Inspecting Other Docker Objects]]
-    
-- [[#Common Mistakes]]
-    
-- [[#Practical Examples]]
-    
-- [[#Quick Reference]]
-    
-- [[#Key Concepts]]
+- [What docker inspect Returns](#what-docker-inspect-returns)
+
+- [Inspecting Containers](#inspecting-containers)
+
+- [Inspecting Images](#inspecting-images)
+
+- [Inspecting Multiple Objects](#inspecting-multiple-objects)
+
+- [Reading the Output](#reading-the-output)
+
+- [Container State](#container-state)
+
+- [Network Information](#network-information)
+
+- [Mount Information](#mount-information)
+
+- [Environment Variables](#environment-variables)
+
+- [Port Information](#port-information)
+
+- [Startup Configuration](#startup-configuration)
+
+- [Restart Policy](#restart-policy)
+
+- [Using Go Templates](#using-go-templates)
+
+- [Common Template Examples](#common-template-examples)
+
+- [Inspecting Other Docker Objects](#inspecting-other-docker-objects)
+
+- [Common Mistakes](#common-mistakes)
+
+- [Practical Examples](#practical-examples)
+
+- [Quick Reference](#quick-reference)
+
+- [Key Concepts](#key-concepts)
     
 
 ---
