@@ -3,7 +3,7 @@
 welcome to my docker documentation, this documentation was made for me and anyone whom want to use it, I made it as a cheatsheet and exlpaination for docker commands and some commands options 
 
 
-# what is docker in one centence  
+# what is docker in one sentence  
 containerisation technology used to wrap the application and the libraries used in it and the dependencies into single container so every software  works the same on every machine that runs it 
 
 
