@@ -29,50 +29,49 @@ Volumes are commonly used for:
 ---
 
 # Contents
+- [What Is a Docker Volume](#what-is-a-docker-volume)
 
-- [[#What Is a Docker Volume]]
-    
-- [[#Volume vs Container Storage]]
-    
-- [[#Volume vs Bind Mount]]
-    
-- [[#Basic Syntax]]
-    
-- [[#Creating a Volume]]
-    
-- [[#Listing Volumes]]
-    
-- [[#Inspecting a Volume]]
-    
-- [[#Using a Volume With docker run]]
-    
-- [[#Mounting a Volume to a Container Path]]
-    
-- [[#Writing Data to a Volume]]
-    
-- [[#Volume Persistence]]
-    
-- [[#Sharing a Volume Between Containers]]
-    
-- [[#Read-Only Volumes]]
-    
-- [[#Anonymous Volumes]]
-    
-- [[#Volume Drivers]]
-    
-- [[#Volume Labels]]
-    
-- [[#Removing Volumes]]
-    
-- [[#Pruning Volumes]]
-    
-- [[#Common Mistakes]]
-    
-- [[#Practical Examples]]
-    
-- [[#Quick Reference]]
-    
-- [[#Key Concepts]]
+- [Volume vs Container Storage](#volume-vs-container-storage)
+
+- [Volume vs Bind Mount](#volume-vs-bind-mount)
+
+- [Basic Syntax](#basic-syntax)
+
+- [Creating a Volume](#creating-a-volume)
+
+- [Listing Volumes](#listing-volumes)
+
+- [Inspecting a Volume](#inspecting-a-volume)
+
+- [Using a Volume With docker run](#using-a-volume-with-docker-run)
+
+- [Mounting a Volume to a Container Path](#mounting-a-volume-to-a-container-path)
+
+- [Writing Data to a Volume](#writing-data-to-a-volume)
+
+- [Volume Persistence](#volume-persistence)
+
+- [Sharing a Volume Between Containers](#sharing-a-volume-between-containers)
+
+- [Read-Only Volumes](#read-only-volumes)
+
+- [Anonymous Volumes](#anonymous-volumes)
+
+- [Volume Drivers](#volume-drivers)
+
+- [Volume Labels](#volume-labels)
+
+- [Removing Volumes](#removing-volumes)
+
+- [Pruning Volumes](#pruning-volumes)
+
+- [Common Mistakes](#common-mistakes)
+
+- [Practical Examples](#practical-examples)
+
+- [Quick Reference](#quick-reference)
+
+- [Key Concepts](#key-concepts)
     
 
 ---
