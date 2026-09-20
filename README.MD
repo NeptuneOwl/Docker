@@ -14,7 +14,7 @@ containerisation technology used to wrap the application and the libraries used 
 ---
 ---
 # IMPORTANT NOTE
-anything you did not find in this documentation, that means its easy to find and read using the `--help`, yes some things easy to find in the `--help` are here BUT I made it this way because I want it this way
+anything you did not find in this documentation, that means its easy to find and read using the `--help`, yes some things easy to find in the `--help` are here BUT I made it this way because I want it[...]
 
 my documentation , my decisions
 
@@ -31,27 +31,26 @@ thanks for understanding :)
 
 # what is in here 
 here you will find 
-- [Docker cheat sheet](#Docker-cheat-sheet)
-- [some advices](#some-advices) I find usefull 
-  >doesnt mean its the best,  its just things I tried and think it might be usefull
-- [[#some projects to practice]]
+- [Docker cheat sheet](#docker-cheat-sheet)
+- [some advices](#some-advices)
+- [some projects to practice](#some-projects-to-practice)
 
 
 # Docker cheat sheet 
-- Docker [[2.baisics]]
+- Docker [2.baisics](2.baisics.md)
 - options explained with examples for comples/ have manny options commands
-	- [[A.docker_run1]]
-	- [[A.docker_run2]]
-	- [[B.docker_build]]
-	- [[C.docker.exec]]
-	- [[D.Docker_Inspect]]
-	- [[E.Docker_Volume]]
+  - [A.docker_run1](A.docker_run1.md)
+  - [A.docker_run2](A.docker_run2.md)
+  - [B.docker_build](B.docker_build.md)
+  - [C.docker.exec](C.docker.exec.md)
+  - [D.Docker_Inspect](D.Docker_Inspect.md)
+  - [E.Docker_Volume](E.Docker_Volume.md)
 
 ---
 # some advices
 
 1. install the docker image from a trusted place like [Github](https://github.com/) or [Docker hub](https://hub.docker.com/)  
-2. try something fun while you are learning (like the retro games image in the [[#some projects to practice]])
+2. try something fun while you are learning (like the retro games image in the [some projects to practice](#some-projects-to-practice))
 3. when making your image make sure that you documented the dockerfile 
 4. take notes (this repo is built on the notes I made) it will help you and save some time in case you wanted to search for something since you wrote it you know where to search  
 5. take your project slowly and device the work 
@@ -62,7 +61,7 @@ here you will find
 
 
 # some projects to practice
-here is a list of fun projects (`at least for me`) you can make that will help you practice some things 
+here is a list of fun projects (`at least me`) you can make that will help you practice some things 
 
 ### 1. Nginx
 Nginx is a 4 in 1 package that contains web server, reverse proxy, load balancer, and content cache all in one 
